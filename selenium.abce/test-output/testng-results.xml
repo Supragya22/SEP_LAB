@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-02T15:36:27 IST" name="Default suite" finished-at="2024-04-02T15:36:47 IST" duration-ms="19449">
+    <groups>
+    </groups>
+    <test started-at="2024-04-02T15:36:27 IST" name="Default test" finished-at="2024-04-02T15:36:47 IST" duration-ms="19449">
+      <class name="SeleniumDemo1.SeleniumExample1">
+        <test-method signature="LoginTest()[pri:0, instance:SeleniumDemo1.SeleniumExample1@6c1a5b54]" started-at="2024-04-02T15:36:27 IST" name="LoginTest" finished-at="2024-04-02T15:36:33 IST" duration-ms="6303" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method signature="OrangeTest()[pri:0, instance:SeleniumDemo1.SeleniumExample1@6c1a5b54]" started-at="2024-04-02T15:36:33 IST" name="OrangeTest" finished-at="2024-04-02T15:36:47 IST" duration-ms="13022" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OrangeTest -->
+      </class> <!-- SeleniumDemo1.SeleniumExample1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
